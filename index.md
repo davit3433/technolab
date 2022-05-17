@@ -2,7 +2,7 @@
 
 ## Participants
 
-1. `<-- Put your name in here`
+1. Davit Zakhrabekyan<-- Put your name in here`
 
 ## Lesson 0 - Introduction
 
